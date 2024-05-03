@@ -1,37 +1,37 @@
-- [Account Management](#account-management)
-  - [Description](#description)
+- [Account Management System](#account-management-system)
+  - [Description ](#description-)
   - [Functions](#functions)
     - [Account Data](#account-data)
     - [Permission Data](#permission-data)
     - [Security Logging](#security-logging)
   - [Work Done](#work-done)
-  - [Tech Used](#tech-used)
+  - [Tech Stack](#tech-stack)
   - [Screenshots](#screenshots)
-- [Backend - BCC Member's App](#backend---bcc-members-app)
+- [BCC Member's App Backend](#bcc-members-app-backend)
   - [Link](#link)
-  - [Description](#description-1)
+  - [Description ](#description--1)
   - [Functions](#functions-1)
     - [*Static Data Endpoints*](#static-data-endpoints)
     - [*Reservation Endpoints*](#reservation-endpoints)
     - [*File Handling*](#file-handling)
-    - [*Account Management*](#account-management-1)
+    - [*Account Management*](#account-management)
     - [*Realtime Chat*](#realtime-chat)
     - [*Logging, Data Visualization, and Analysis*](#logging-data-visualization-and-analysis)
     - [*Security*](#security)
   - [Work Done](#work-done-1)
-  - [Tech Used](#tech-used-1)
-  - [Screenshot](#screenshot)
+  - [Tech Stack](#tech-stack-1)
+  - [Screenshots](#screenshots-1)
 - [BCC Member's App Chat - Admin CMS](#bcc-members-app-chat---admin-cms)
-  - [Description](#description-2)
+  - [Description ](#description--2)
   - [Functions](#functions-2)
     - [Typical Chat Application Functionalities](#typical-chat-application-functionalities)
     - [Ticket Creation](#ticket-creation)
     - [Data Search](#data-search)
   - [Work Done](#work-done-2)
-  - [Tech Used](#tech-used-2)
-  - [Screenshots](#screenshots-1)
+  - [Tech Stack](#tech-stack-2)
+  - [Screenshots](#screenshots-2)
 - [Incidents CMS](#incidents-cms)
-  - [Description](#description-3)
+  - [Description ](#description--3)
   - [Functions](#functions-3)
     - [*Data Entry for Incidents*](#data-entry-for-incidents)
     - [*Data Entry for Feedback*](#data-entry-for-feedback)
@@ -39,70 +39,89 @@
     - [*Data Graphs*](#data-graphs)
     - [*Help System*](#help-system)
   - [Work Done](#work-done-3)
-  - [Tech Used](#tech-used-3)
-  - [Screenshots](#screenshots-2)
-- [Backend - Event Scoring](#backend---event-scoring)
+  - [Tech Stack](#tech-stack-3)
+  - [Screenshots](#screenshots-3)
+- [Event Scoring Backend](#event-scoring-backend)
   - [Link](#link-1)
-  - [Description](#description-4)
+  - [Description ](#description--4)
   - [Functions](#functions-4)
     - [*CRUD*](#crud)
   - [Work Done](#work-done-4)
-  - [Tech Used](#tech-used-4)
+  - [Tech Stack](#tech-stack-4)
   - [Event pictures](#event-pictures)
-- [Backend - Image / File Processing](#backend---image--file-processing)
-  - [Description](#description-5)
+- [Image / File Processing System](#image--file-processing-system)
+  - [Description ](#description--5)
   - [Functions](#functions-5)
     - [*File Serving*](#file-serving)
     - [*Image Processing*](#image-processing)
     - [*Meta-data Endpoint*](#meta-data-endpoint)
   - [Work Done](#work-done-5)
-  - [Tech Used](#tech-used-5)
-- [Project Management](#project-management)
-  - [Description](#description-6)
+  - [Tech Stack](#tech-stack-5)
+- [Emergency Display and Reporting System](#emergency-display-and-reporting-system)
+  - [Description ](#description--6)
   - [Functions](#functions-6)
+    - [Emergency Display](#emergency-display)
+    - [Desktop Page](#desktop-page)
+    - [Content Management System](#content-management-system)
+    - [SMS Notifications](#sms-notifications)
+  - [Work Done](#work-done-6)
+  - [Tech Stack](#tech-stack-6)
+  - [Screenshots](#screenshots-4)
+- [Project Management](#project-management)
+  - [Description ](#description--7)
+  - [Functions](#functions-7)
     - [*Executive View*](#executive-view)
     - [*Projects Page*](#projects-page)
     - [*Tasks Page*](#tasks-page)
     - [*Project / PR Notifications*](#project--pr-notifications)
     - [*Mentions*](#mentions)
-  - [Work Done](#work-done-6)
-  - [Tech Used](#tech-used-6)
-  - [Screenshots](#screenshots-3)
+  - [Work Done](#work-done-7)
+  - [Tech Stack](#tech-stack-7)
+  - [Screenshots](#screenshots-5)
 - [Smart Room 360 Degree View](#smart-room-360-degree-view)
   - [Link](#link-2)
-  - [Description](#description-7)
-  - [Work Done](#work-done-7)
-  - [Tech Used](#tech-used-7)
-  - [Screenshots](#screenshots-4)
+  - [Description ](#description--8)
+  - [Work Done](#work-done-8)
+  - [Tech Stack](#tech-stack-8)
+  - [Screenshots](#screenshots-6)
+- [Waiver Management System](#waiver-management-system)
+  - [Description ](#description--9)
+  - [Functions](#functions-8)
+    - [Digital Form](#digital-form)
+    - [Document Generation](#document-generation)
+  - [Work Done](#work-done-9)
+  - [Tech Stack](#tech-stack-9)
+  - [Screenshots](#screenshots-7)
 - [University - Guidance Records Management System](#university---guidance-records-management-system)
-  - [Description](#description-8)
+  - [Description ](#description--10)
   - [Features](#features)
     - [Information Search and Update](#information-search-and-update)
     - [PDF Generation](#pdf-generation)
-  - [Tech Used](#tech-used-8)
-  - [Screenshots](#screenshots-5)
+  - [Tech Stack](#tech-stack-10)
+  - [Screenshots](#screenshots-8)
 - [University - Digital Signals Simulation System](#university---digital-signals-simulation-system)
-  - [Description](#description-9)
-  - [Tech Used](#tech-used-9)
-  - [Screenshots](#screenshots-6)
+  - [Description ](#description--11)
+  - [Tech Stack](#tech-stack-11)
+  - [Screenshots](#screenshots-9)
 - [Phil. Navy - Crisis Simulation Game](#phil-navy---crisis-simulation-game)
-  - [Description](#description-10)
-  - [Functions](#functions-7)
+  - [Description ](#description--12)
+  - [Functions](#functions-9)
     - [Main Map Logic](#main-map-logic)
     - [Game Objectives Overview](#game-objectives-overview)
     - [Game Master Decision Page](#game-master-decision-page)
-  - [Work Done](#work-done-8)
-  - [Tech Used](#tech-used-10)
+  - [Work Done](#work-done-10)
+  - [Tech Used](#tech-used)
   - [Code Example](#code-example)
-  - [Screenshots](#screenshots-7)
+  - [Screenshots](#screenshots-10)
 
 
 ```
 > A neutrino walks through a bar. 
 ```
-# Account Management
+# Account Management System
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-backend-blue)
+
 
 In the beginning, the setup for account management was decentralized, with each IT system having its own login credentials. As the number of systems grew, managing these credentials became increasingly unwieldy. To address this issue, a single-sign-on (SSO) solution was implemented, which would allow users to access multiple systems using a single set of credentials.
 
@@ -126,7 +145,7 @@ The SSO solution was designed with the concept of Role-based Access Control (RBA
 - `DB design` - Designed database schema and created entity-relationship chart to ensure efficient data storage and relationships.
 - `Interview` - Collaborated with team members to gather requirements and ensure system met business needs.
 - `Development`
-  - Developed back-end code and tested thoroughly to ensure functionality, reliability, and performance.
+  - Developed backend code and tested thoroughly to ensure functionality, reliability, and performance.
   - Created database, tables, views, and stored procedures
 - `Documentation` - Created comprehensive API documentation to facilitate future development and integration.
 - `Deployment` - Successfully deployed system to production environment.
@@ -135,31 +154,32 @@ The SSO solution was designed with the concept of Role-based Access Control (RBA
 - `Security audit` - Periodically check the logs for any unusual events.
 
 
-## Tech Used
-- **expressJS**
-- **Microsoft SQL**
+## Tech Stack
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **pino** + **prometheus** + **grafana loki** - logging, visualization, and data analysis
 - **grafana k6** + **locust.py** - load testing
 - **JSON web tokens** - authentication base
 - **bcrypt** - password hashing
-- **Github** - version tracking and history
 
 
 ## Screenshots
-This is a front-end implementation on one of my projects.
-![1](account_mgmt/1.png)
+> This is a frontend implementation on one of my projects. 
+>
+>![1](account_mgmt/1.png)
 ![2](account_mgmt/2.png)
 
 ```
 >  Jurisprudence fetishist gets off on technicality. 
 ```
-# Backend - BCC Member's App
+# BCC Member's App Backend
 
 ## Link
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.bcc.member_app&hl=en_US)
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-backend-blue)
 
 The backend server for Baguio Country Club's mobile app. Biggest project yet.
 
@@ -194,7 +214,7 @@ The backend server for Baguio Country Club's mobile app. Biggest project yet.
 ## Work Done
 - `Design`
   - Reviewed code of initial proof-of-concept server written in PHP and developed by a separate duo of programmers
-  - Collaborated with front-end developer to design backend structure, with guidance from existing server
+  - Collaborated with frontend developer to design backend structure, with guidance from existing server
   - Designed database schema and created entity-relationship charts to ensure efficient data storage and relationships
   - Designed login and OTP process to ensure secure user authentication
   - Finalized overall server architecture
@@ -202,7 +222,7 @@ The backend server for Baguio Country Club's mobile app. Biggest project yet.
   - Conducted manager interviews to gather requirements and ensure system met business needs.
   - Presented the design and system functionalities to managers to gather additional feedback.
 - `Development`
-  - Developed new server in Typescript, in concert with the front-end developer integrating the endpoints, and conducting continous testing to ensure endpoint functionality and data integrity, including:
+  - Developed new server in Typescript, in concert with the frontend developer integrating the endpoints, and conducting continous testing to ensure endpoint functionality and data integrity, including:
     - data validation and error handling
     - data security and access control
     - data backup and recovery procedures
@@ -220,31 +240,32 @@ The backend server for Baguio Country Club's mobile app. Biggest project yet.
   - Update code in response to each requirement addition and policy changes
 - `Security audit` - Periodically check the logs for any unusual events.
 
-## Tech Used
+## Tech Stack
 - Backend
-  - **expressJS**
-  - **pm2** - back-end monitoring and parallelization (*via clustering*)
-  - **socketIO** - sockets for chat functionality
+  - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  - ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+  - **pm2** - backend monitoring and parallelization (*via clustering*)
 - Data Storage
-  - **Microsoft SQL**
-  - **Docker** + **Redis** - store cached and frequently-used data
+  - ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 - Testing
   - **mocha** + **supertest** + **chai** - endpoint testing
   - **grafana k6** + **locust.py** - load testing
 - Logging
   - **pino** + **prometheus** + **grafana loki** - logging, visualization, and data analysis
 - Utilities
+  - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - batch processing of files (*ex. file renaming, PDF manipulation via PyMuPDF*)
   - **sharp** + **multer** - image processing
   - **cron** - run scheduled jobs
-  - **swagger** - API documentation
-  - **python** - batch processing of files (*ex. file renaming, PDF manipulation via PyMuPDF*)
   - **draw.IO** - generate ERD charts
   - **MermaidJS** - generate charts to visualize data flow and backend design
   - **Docker** + **Uptime Kuma** - backend health monitor tool and notification service
-  - **Github** - version tracking and history
 
-## Screenshot
-Early design for the reservation flow (not the actual implementation). Sequence diagrams such as these served as the bread-and-butter to communicate design flows and choices to other developers.
+## Screenshots
+
+> Early design for the reservation flow (not the actual implementation). Sequence diagrams such as these served as the bread-and-butter to communicate design flows and choices to other developers.
+ 
 ```mermaid
 sequenceDiagram
     Note over APP: select facility
@@ -264,17 +285,17 @@ sequenceDiagram
 
 ```
 
-This is the preliminary design of the backend, which is not representative of the actual implementation of code and flow of data. Pertinent security objects are blurred for safety.
+> This is the preliminary design of the backend, which is not representative of the actual implementation of code and flow of data. Pertinent security objects are blurred for safety.
+> 
+>![1](backend_bcc_app/1.png)
 
-![1](backend_bcc_app/1.png)
-  
 ```
 >  What if soy milk is just regular milk introducing itself in Spanish.
 ```
 
 # BCC Member's App Chat - Admin CMS
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-fullstack-green)
 
 The project involves the development of a comprehensive system designed to administer chat messages for sent from the BCC Member's App, enhancing both user interaction and administrative oversight. This system is structured to facilitate real-time communication among users while providing administrators with robust tools to monitor and manage the conversation flow. Key features include an intuitive interface for viewing and sorting messages, and user management capabilities such as ticket creation to track incident events and feedbacks from the members.
 
@@ -313,14 +334,17 @@ end
 - `DB design` - Designed and implemented a comprehensive database schema, including an entity-relationship chart, to effectively manage and store data for the new system.
 - `Interviews` - Conducted thorough interviews with managers to gather requirements and ensure that the system meets their needs. 
 - `Development` - 
-- Developed and tested the back-end, front-end, database, and API documentation to ensure seamless functionality and user experience.
+- Developed and tested the backend, frontend, database, and API documentation to ensure seamless functionality and user experience.
 - `Support` - Provideed training and support to operators on the system's capabilities and usage, and deploy the system to production
 - `Maintenance` - Addressed bugs and rolled out updates and feature requests to enhance functionality and performance.
 
 
-## Tech Used
+## Tech Stack
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **lottie** - animations
-- **vue + quasar framework** - GUI
 - **pinia** - data management
 - **axios** - API communication
 - **driverJS** - help system
@@ -328,13 +352,13 @@ end
   
 
 ## Screenshots
-![1](bcc_app_chat/1.png)
+>![1](bcc_app_chat/1.png)
 ![1](bcc_app_chat/2.png)
 ```
 > I need constant reassurance, right?
 ```
 # Incidents CMS
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-fullstack-green)
 The Incident Management System was designed to complement the BCC App Chat Admin CMS, providing a centralized platform for managing and tracking incidents reported by chat members. The system was initially developed to allow chat admins to create tickets from member chats, describing incidents that required attention. Subsequently, the system was enhanced to enable CMS operators to log incident reports directly into the system, without the need for tickets from the chat admin.
 
 ## Functions
@@ -357,16 +381,19 @@ The Incident Management System was designed to complement the BCC App Chat Admin
 - `Interviews` - Conducted manager interviews to gather requirements and ensure system met business needs.
 - `Business presentation` - Presented the design and system functionalities to managers to gather additional feedback.
 - `Development`
-  - Developed back-end code and tested thoroughly to ensure functionality, reliability, and performance
-  - Created front-end code and tested thoroughly to ensure user-friendly interface and seamless integration with back-end
+  - Developed backend code and tested thoroughly to ensure functionality, reliability, and performance
+  - Created frontend code and tested thoroughly to ensure user-friendly interface and seamless integration with backend
 - `Documentation` - Produced comprehensive API documentation to facilitate future development and integration
 - `Deployment` - Successfully deployed system to production environment
 - `Support` - Provided training and support to operators to ensure successful adoption and usage of the system
 
 
-## Tech Used
+## Tech Stack
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **apexcharts** - chart display
-- **vue + quasar framework** - GUI
 - **lottie** - animations
 - **pinia** - data management
 - **axios** - API communication
@@ -374,26 +401,29 @@ The Incident Management System was designed to complement the BCC App Chat Admin
 
 
 ## Screenshots
-![1](incident_cms/1.png)
+> ![1](incident_cms/1.png)
 ![2](incident_cms/2.png)
-![3](incident_cms/3.png)
 ![4](incident_cms/4.png)
 ![9](incident_cms/9.png)
 ![10](incident_cms/10.png)
-![11](incident_cms/11.png)
 ![12](incident_cms/12.png)
 ![15](incident_cms/15.png)
-![16](incident_cms/16.png)
+
+> [!NOTE]
+> More pictures in the sub-folder.
+
+
+
 ```
 > Why do ballerinas always stand in their toes? Why don't they get taller dancers? 
 ```
-# Backend - Event Scoring
+# Event Scoring Backend
 
 ## Link
 [Event example](https://fb.watch/rQeUJtm3bi/)
 
-## Description
-This back-end event scoring system has been developed to be robust and consistent, with a proven track record of successful implementation at various live events. The system has been used at events such as the BCC Choir Contest and the HRAB (*Hotel and Restaurant Association of Baguio*) beauty pageant. To ensure the system's reliability and efficiency, load testing and performance optimization techniques have been utilized. Additionally, security measures have been implemented to protect sensitive data and prevent unauthorized access.
+## Description ![Static Badge](https://img.shields.io/badge/solo-backend-blue)
+This backend event scoring system has been developed to be robust and consistent, with a proven track record of successful implementation at various live events. The system has been used at events such as the BCC Choir Contest and the HRAB (*Hotel and Restaurant Association of Baguio*) beauty pageant. To ensure the system's reliability and efficiency, load testing and performance optimization techniques have been utilized. Additionally, security measures have been implemented to protect sensitive data and prevent unauthorized access.
 
 ## Functions
 ### *CRUD*
@@ -401,7 +431,7 @@ This back-end event scoring system has been developed to be robust and consisten
 
 ## Work Done
 - `DB design` - Designed database schema and created an entity-relationship chart to ensure efficient data storage and relationships.
-- `Development` - Developed back-end code and collaborated with front-end developer to determine required endpoints and ensure seamless integration.
+- `Development` - Developed backend code and collaborated with frontend developer to determine required endpoints and ensure seamless integration.
 - `Documentation` - Created comprehensive API documentation for future reference and to facilitate team understanding.
 - `Testing`
   - Conducted rigorous endpoint and usability testing to ensure data reliability and integrity, including:
@@ -414,9 +444,10 @@ This back-end event scoring system has been developed to be robust and consisten
 
 
 
-## Tech Used
-- **expressJS**
-- **Microsoft SQL**
+## Tech Stack
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **mocha** + **supertest** + **chai** - endpoint testing
 - **grafana k6** + **locust.py** - load testing
 ## Event pictures
@@ -430,9 +461,9 @@ This back-end event scoring system has been developed to be robust and consisten
 ```
 >  The fastest way to make money with your photography equipment is to sell it. 
 ```
-# Backend - Image / File Processing
+# Image / File Processing System
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-backend-blue)
 
 The backend serves as a centralized processor and distributor for files used by all systems developed within the division. It stores images and various files directly within the file system, while the corresponding file paths and metadata are securely housed in the database. This structure ensures efficient management and quick retrieval of file information across all applications.
 
@@ -451,28 +482,105 @@ The backend serves as a centralized processor and distributor for files used by 
 
 - `DB design` - Designed database schema and created an entity-relationship chart to ensure efficient data storage and relationships
 - `Interviews` - Collaborated with the team to gather requirements and incorporate feedback into the design
-- `Development` - Developed the back-end code and tested the API to ensure functionality and reliability
+- `Development` - Developed the backend code and tested the API to ensure functionality and reliability
 - `Documentation` - Created thorough API documentation for future reference and to facilitate team understanding
 - `Deployment` - Successfully deployed the system to the production environment
 - `Training` - Provided training and support to the team to ensure a smooth transition and assimilation with existing systems
 
 
 
-## Tech Used
-- **expressJS**
-- **Microsoft SQL Server**
+## Tech Stack
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **tesseractJS** - optical character recognition (OCR)
 - **multer** - handle upload data stream
 - **sharpJS** - image conversion, processing, and storage
-- **Swagger** - API documentation
 
+
+```
+> Know what always catches my eye? Short people with umbrellas. 
+```
+# Emergency Display and Reporting System
+
+## Description ![Static Badge](https://img.shields.io/badge/solo-fullstack-green)
+This project was initiated to replace an existing XiboCMS setup that managed the emergency display visuals throughout the Club with a custom in-house solution. The system is divided into three main components:
+
+- *Emergency Display Page* - This component passively exhibits security-related information.
+- *Desktop Page* - Designed to remain perpetually open on all club computer browsers, this component functions primarily as an emergency reporting tool.
+- *Content Management System* (CMS) - This part of the system allows administrators to manage and update data efficiently.
+
+The ability to send SMS notifications - in response to status updates - to specific personnel was added later on.
+
+## Functions
+
+### Emergency Display
+- Display active emergency codes and the status level of four security-related conditions.
+- Display date and time, as well as a 7-day forecast for temperature and weather.
+- Display a news ticker.
+
+### Desktop Page
+- Help system: a step-by-step guide that walks the user through a certain process (*see screenshot for example*).
+- Methods to report emergency: via an ***emergency button*** that users can submit in three clicks and a ***form*** that users can fill up. Each desktop page is mapped to an employee and a location, and is added to the data sent to the administrators.
+- Link to download a PDF copy of the emergency manual.
+- Display emergency hotline numbers.
+- Mirror the data on the Emergency Display.
+
+### Content Management System
+- Create/edit/delete emergency codes.
+- Activate/deactivate a certain emergency code.
+- Change the status level of four security-related conditions.
+- Create/delete messages that will be broadcasted in a news ticker fashion.
+- View and respond to messages or emergency beacons sent by remote units. 
+
+### SMS Notifications
+- Activations of code alerts and promotions of emergency levels to a certain threshold will trigger the system to send SMS notifications to certain individuals.
+
+
+## Work Done
+- `DB design` - Designed database schema and created entity-relationship chart to ensure efficient data storage and relationships.
+- `Interview` - Collaborated with the manager of Health and Safety Division to gather requirements and ensure system met business needs.
+- `Development`
+  - Developed backend code and tested thoroughly to ensure functionality, reliability, and performance.
+  - Created database, tables, views, and stored procedures
+  - Integrated system to the SMS distribution system
+- `Documentation` - Created comprehensive API documentation to facilitate future development and integration.
+- `Deployment` - Successfully deployed system to production environment.
+- `Support` - Provided training and support to administrators and end-users to ensure successful adoption and usage of the system.
+
+## Tech Stack
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **pinia** - data management
+- **axios** - API communication
+- **driverJS** - help system
+- **OpenWeatherMap** - weather forecast
+
+## Screenshots
+> **Desktop Page**
+> 
+>![1](hsd_desktop/1.png)
+![3](hsd_desktop/3.png)
+![5](hsd_desktop/5.png)
+
+> **Emergency Display**
+>
+>![1](hsd_cms/1.png)
+![4](hsd_cms/4.png)
+![6](hsd_cms/6.png)
+
+> [!NOTE]
+> More pictures on the sub-folders.
 
 ```
 >   If a group of geese is a gaggle, what is a group of product managers? A bottleneck.
 ```
 # Project Management
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-fullstack-green)
 
 The workforce at Baguio Country Club is organized into multiple divisions and further broken down into departments. The primary mode of communication for project proposals and updates is through conversations and meetings. This approach often results in outdated information, leading to several issues:
 
@@ -509,11 +617,15 @@ The system is tailored for the club's managers to aid in project management. It 
 - `Deployment` - Launched the application for operational use.
 - `Maintenance` - Addressed bugs and rolled out updates to enhance functionality and performance.
 
-## Tech Used
+## Tech Stack
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) - serialize messages for saving and formatting
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **[tiptap.dev](https://tiptap.dev/)** - when composing messages, typing the "@" symbol triggers an autocomplete feature that displays a list of user names, facilitating quick and accurate referencing within the communication.
-- **Markdown** - serialize messages for saving and formatting
 - **[frappe gantt](https://frappe.io/gantt)** - gantt library
-- **vue + quasar framework** - GUI
 - **pinia** - data management
 - **axios** - API communication
 
@@ -521,9 +633,9 @@ The system is tailored for the club's managers to aid in project management. It 
 
 ## Screenshots
 
-I was unable to capture sufficient screenshots for this project, particularly for the critical Projects and Tasks page. However, it is important to emphasize that I retain a thorough understanding of the workflow, design, and processes involved.
-
-<img src="projectmgmt/1.png" width="250em" padding="50px"> &nbsp;
+> I was unable to capture sufficient screenshots for this project, particularly for the critical Projects and Tasks page. However, it is important to emphasize that I retain a thorough understanding of the workflow, design, and processes involved.
+>
+><img src="projectmgmt/1.png" width="250em" padding="50px"> &nbsp;
 <img src="projectmgmt/2.png" width="250em"> &nbsp;
 <img src="projectmgmt/3.png" width="250em">
 
@@ -535,23 +647,23 @@ I was unable to capture sufficient screenshots for this project, particularly fo
 ## Link
 [Click here.](https://smartroom360.thebaguiocountryclub.com/)
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-fullstack-green)
 Users can interactively swipe, pan, and zoom to explore a comprehensive 360-degree panorama of a smart hotel room. Interactive tags positioned near key fixtures, like lights and windows, detail the voice commands necessary to operate these elements. This interface served as a prototype for a broader virtual tour project, showcasing the full spectrum of the hotel’s facilities and amenities.
 
 ## Work Done
 - `Data Acquisition` - Photograph the site and conduct post-processing to stitch and edit the images.
-- `Development` - Develop the front-end interface.
+- `Development` - Develop the frontend interface.
 - `Deployment` - Establish hosting for the static files by executing the following tasks:
   - Configure DNS settings
   - Upload static files to the cloud service provider
   - Associate the domain name with the hosting environment in the cloud settings
 
-## Tech Used
+## Tech Stack
+- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 - Insta360 X3 Camera
 - Insta360 Studio (generate 360 files from RAW)
 - Darktable (picture editing)
-- Marzipano library (for the front-end)
-- Cloudflare
+- Marzipano library (for the frontend)
 - Hostgator DNS
 
 ## Screenshots
@@ -559,12 +671,53 @@ Users can interactively swipe, pan, and zoom to explore a comprehensive 360-degr
 ![2](smartroom/2.png)
 
 ```
+>  I tell ya, my wife and I were happy for twenty years and then we met. 
+```
+# Waiver Management System
+
+## Description ![Static Badge](https://img.shields.io/badge/solo-fullstack-green)
+
+At the Baguio Country Club's Christmas Village, attendees are required to sign a waiver form before accessing certain attractions. In line with the Club's paperless initiative, a digital waiver form has been implemented. This form is accessible via a website link, which can be reached by scanning QR codes displayed throughout the area.
+
+## Functions
+
+### Digital Form 
+- The system facilitates the entry of various user data points and displays the terms and conditions that require user consent.
+
+### Document Generation
+- Upon submission of the waiver, a PDF copy is dynamically generated. This document is saved to the user's device and also stored in a local database.
+
+## Work Done
+- `DB design` - Designed and implemented a comprehensive database schema, including an entity-relationship chart, to effectively manage and store data for the new system.
+- `Interviews` - Conducted thorough interviews with managers to gather requirements and ensure that the system meets their needs. 
+- `Development` - Developed and tested the backend, frontend, database, and API documentation to ensure seamless functionality and user experience.
+- `Support` - Provideed training and support to operators on the system's capabilities and usage, and deploy the system to production
+- `Maintenance` - Addressed bugs and rolled out updates and feature requests to enhance functionality and performance.
+
+
+## Tech Stack
+
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **pinia** - data management
+- **axios** - API communication
+- **jsPDF** - PDF generation
+
+## Screenshots
+> <img src="waiver/1.png" width="250em" padding="50px"> &nbsp;
+<img src="waiver/2.png" width="250em" padding="50px"> &nbsp;
+<img src="waiver/3.png" width="250em" padding="50px"> &nbsp;
+<img src="waiver/4.png" width="250em" padding="50px"> &nbsp;
+  
+```
 > "I'm sorry" and "I apologize" mean the same thing, except when you're at a funeral.
 ```
 
 # University - Guidance Records Management System
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/solo-fullstack-green)
 
 Final project for a university course. 
 
@@ -577,17 +730,17 @@ Final project for a university course.
 ### PDF Generation
 - Generate guidance clearance document for students with no violation records.
 
-## Tech Used
-- **flask** - backend server
+## Tech Stack
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)	![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - **pdfpy** - document generation
 - **jinja templates** - templating engine
-- **vue 2 + bootstrap** - frontend
 - **moment.js** - date/time library
-- **mongo DB** - backend
 
 ## Screenshots
 
-![1](cvsu_guidance_records/1.png)
+>![1](cvsu_guidance_records/1.png)
 ![2](cvsu_guidance_records/2.png)
 
 ```
@@ -596,25 +749,26 @@ Final project for a university course.
 
 # University - Digital Signals Simulation System
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/team-fullstack-green)
 
 Simulator for digital signals with basic logic gate components.
 
-## Tech Used
-- **flask** - backend server
-- **jinja templates** - templating engine
-- **vue 2 + bootstrap + p5.js + popper.js** - frontend
+## Tech Stack
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)	![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- **p5.js + popper.js** - frontend
 
 ## Screenshots
 
-![1](cvsu_digital_signals/1.png)
+>![1](cvsu_digital_signals/1.png)
 
 ```
 >  I would tell you a joke about UDP, but you might not get it.
 ```
 # Phil. Navy - Crisis Simulation Game
 
-## Description
+## Description ![Static Badge](https://img.shields.io/badge/team-fullstack-green)
 
 This project has transformed the traditional manual process of a crisis simulation exercise used by reservists of the Philippine Navy into a digital game, offering a more efficient, accessible, and engaging experience for players. By leveraging technology, the game streamlines the simulation process, allowing players to focus on strategic decision-making rather than physical implementation. 
 
@@ -666,11 +820,12 @@ This shift from a manual to a digital format has significantly improved the warg
 
 ## Tech Used
 
+
+- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) - game logic
 - **leaflet.js** - map display
-- **Typescript** - game logic
 - **geoJSON** - tool to determine to convert coordinates to actual geographical data
-- **fastAPI + socket.js** - backend server
-- **bootstrap + jinja templates + vanilla JS** - frontend
 - **dBeaver** - database manipulation tool
 
 ## Code Example
@@ -747,6 +902,6 @@ export function computePaths(latlngs0: LatLng, latlngs1: LatLng, color = 'black'
 
 ## Screenshots
 
-![1](crisis_simulator/1.png)
+> ![1](crisis_simulator/1.png)
 ![2](crisis_simulator/2.png)
 ![3](crisis_simulator/3.png)
